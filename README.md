@@ -1,5 +1,7 @@
 
 
+[Project page](https://llmdefense.stonezhang.com/) | [Paper (arXiv)](https://arxiv.org/abs/2607.24392)
+
 # Processed Input Data for LLM Defense Mechanism Analysis
 
 This repository contains processed input datasets used in the study **"Unintended Side Effects of Defense Mechanisms in Large Language Models: A Comprehensive Study"**. These datasets are designed to facilitate benchmarking and evaluation of LLM defense mechanisms across multiple dimensions, such as performance, over-refusal, and inference costs.
