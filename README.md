@@ -6,6 +6,8 @@
 
 This repository contains processed input datasets used in the study **"Unintended Side Effects of Defense Mechanisms in Large Language Models: A Comprehensive Study"**. These datasets are designed to facilitate benchmarking and evaluation of LLM defense mechanisms across multiple dimensions, such as performance, over-refusal, and inference costs.
 
+Corresponding author: Yun Peng.
+
 ## Repository Contents
 
 The repository includes the following processed datasets:
